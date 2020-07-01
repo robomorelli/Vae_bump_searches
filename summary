@@ -1,0 +1,5 @@
+in model_dependent single train we have in the folder 187_12, 500_300 and 700_50 the best result (also stored in best first result)
+they are relative to the contourplo on desktop
+
+ijn model results single train in (0_1_3) with (5_10_10) we have best model independent result relative to the contourplot on on desktop
+these result are stored in best first result and in vae anomaly detection jupyter folder (see dictionary result to confirm on model)
